@@ -1,0 +1,21 @@
+[17-Jun-2016 18:47:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 18:47:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 18:47:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:07:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:08:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:08:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:08:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:10:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:13:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:23:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:24:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:25:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:26:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:26:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[17-Jun-2016 19:27:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_STRING in /home/nufart/public_html/nufaweb/registrasi.php on line 58
+[21-Jun-2016 03:50:35 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nufart/public_html/nufaweb/registrasi.php:118) in /home/nufart/public_html/nufaweb/registrasi.php on line 119
+[21-Jun-2016 03:53:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nufart/public_html/nufaweb/registrasi.php:118) in /home/nufart/public_html/nufaweb/registrasi.php on line 119
+[21-Jun-2016 04:19:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ENDWHILE in /home/nufart/public_html/nufaweb/index.php on line 78
+[21-Jun-2016 04:29:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ENDWHILE in /home/nufart/public_html/nufaweb/index.php on line 53
+[15-Jul-2016 13:42:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/nufart/public_html/nufaweb/registrasi.php on line 62
+[15-Jul-2016 15:45:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/nufart/public_html/nufaweb/registrasi.php on line 73
